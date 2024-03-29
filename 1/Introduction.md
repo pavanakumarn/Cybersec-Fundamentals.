@@ -13,5 +13,5 @@
    - Cybersecurity professionals design and implement security controls to protect assets, data and information
    - As more and more of our lives have become digitized and online, cybersecurity has become a top concern for both private individuals and organizations.
 
-## What is the cyber security CIA triad?
+## What is the cyber security ==CIA== triad?
   The cyber security triad refers to the model that incorporates the three main considerations for any cybersecurity work or designing a system/environment:
