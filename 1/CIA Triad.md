@@ -56,11 +56,11 @@ TRUSTWORTHINESS OF DATA OR RESOUCES: Protect the data from modification or delet
 
 
 
+## Availability
+- Availability protects authorized access to systems and data.
 - **Availability**
 ACCESSIBLE WHEN REQUIRED BY AUTHORIZED USERS: Systems, access channels, and authentication mechanisms must all be working properly for the information they provide and protect to be available when needed.
 
-## Availability
-- Availability protects authorized access to systems and data.
 #### Availability_Concerns
 1. Denial of service (DoS)
 	- Unlimited request to a server
