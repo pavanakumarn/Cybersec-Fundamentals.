@@ -7,12 +7,12 @@ The whole principle is to avoid **Theft, Tampering and Disruption** of the syste
 <img width="50%" src="https://i.ytimg.com/vi/AJTJN4wDBM8/hqdefault.jpg">
 </p>
 
-- **Confidentiality**
-Keeping systems and data from being accessed, seen, read to anyone who is not authorized to do so.
-Information is accessible only to the autorized personnel.
 
 ## Confidentiality
 - Confidentiality protects information from unauthorized disclosure.
+- **Confidentiality**
+Keeping systems and data from being accessed, seen, read to anyone who is not authorized to do so.
+Information is accessible only to the autorized personnel.
 
 #### Confidentiality_Concerns
 1. Snooping
@@ -30,9 +30,6 @@ Information is accessible only to the autorized personnel.
 5. Social Engineering
 	- The attacker uses psychological tricks to persuade an employee to give then sensitive information or access to internal systems.
 	- Best defence is to "Educating users"
-
-
-
 
 ## Integrity
 - Integrity protects information from unauthorized changes.
