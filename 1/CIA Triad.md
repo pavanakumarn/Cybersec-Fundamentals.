@@ -36,7 +36,7 @@ Information is accessible only to the autorized personnel.
 
 ## Integrity
 - Integrity protects information from unauthorized changes.
- **Integrity**
+- **Integrity**
 TRUSTWORTHINESS OF DATA OR RESOUCES: Protect the data from modification or deletion by unauthorized parties, and ensuring that when authorized people make changes that shouldn't have been made the damage can be undone.
 
 #### Integrity_Concerns
